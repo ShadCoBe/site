@@ -1827,12 +1827,14 @@
 .u-section-11 .u-shape-1 {
   width: 577px;
   height: 357px;
-  margin: 463px auto 0 calc(((100% - 1140px) / 2) + 135px);
+  background-image: none;
+  box-shadow: -2px -2px 8px 0 rgba(128,128,128,1);
+  margin: 460px auto 0 calc(((100% - 1140px) / 2) + 135px);
 }
 
 .u-section-11 .u-shape-2 {
   height: 299px;
-  margin-top: -820px;
+  margin-top: -817px;
   margin-bottom: 0;
 }
 
@@ -1911,6 +1913,7 @@
   letter-spacing: 2px;
   background-image: none;
   text-transform: none;
+  border-style: none;
 }
 
 @media (max-width: 1199px) {
