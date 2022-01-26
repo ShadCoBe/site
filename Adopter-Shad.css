@@ -89,10 +89,6 @@
   margin: 20px auto 0;
 }
 
-.u-section-1 .u-list-item-2 {
-  background-size: auto;
-}
-
 .u-section-1 .u-container-layout-4 {
   padding: 0 0 30px;
 }
@@ -151,10 +147,6 @@
   letter-spacing: 1px;
   background-image: none;
   margin: 20px auto 0;
-}
-
-.u-section-1 .u-list-item-3 {
-  background-size: auto;
 }
 
 .u-section-1 .u-container-layout-7 {
@@ -260,6 +252,10 @@
     height: 42px;
   }
 
+  .u-section-1 .u-list-item-2 {
+    background-size: auto;
+  }
+
   .u-section-1 .u-group-3 {
     margin-right: initial;
     margin-left: initial;
@@ -286,6 +282,10 @@
 
   .u-section-1 .u-btn-2 {
     height: 42px;
+  }
+
+  .u-section-1 .u-list-item-3 {
+    background-size: auto;
   }
 
   .u-section-1 .u-group-5 {
